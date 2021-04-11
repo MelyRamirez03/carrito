@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "nombre":"BE (Deluxe)",
+        "precio":"1100",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/a/a2/BTS_-_Be_Cover.png",
+        "descripcion":"Artista: BTS"
+    },
+    {
+        "id":2,
+        "nombre":"ArmyBomb: MOTS",
+        "precio":"900",
+        "imagen":"https://images-na.ssl-images-amazon.com/images/I/41ztQhC5ApL._SX466_.jpg",
+        "descripcion":"Artista: BTS"
+    },
+    {
+        "id":3,
+        "nombre":"Eyes Wide Open",
+        "precio":"700",
+        "imagen":"https://i2.wp.com/colorcodedlyrics.com/wp-content/uploads/2020/10/TWICE-Eyes-wide-open-scaled.jpg?fit=2560%2C2560&ssl=1",
+        "descripcion":"Artista: TWICE"
+    },
+    {
+        "id":4,
+        "nombre":"The Album",
+        "precio":"800",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+        "descripcion":"Artista: BLACKPINK"
+    },
+    {
+        "id":5,
+        "nombre":"Travel",
+        "precio":"700",
+        "imagen":"https://1.bp.blogspot.com/-wrccSTCkn_M/X3yX2DwUiXI/AAAAAAABDfg/xcSdcoTln2ErCJ_ZOA3aXUoa6TXs4EvlACLcBGAsYHQ/s2048/Ejp4C97XYAIblDH.jpg",
+        "descripcion":"Artista: MAMAMOO"
+    },
+    {
+        "id":6,
+        "nombre":"TXT - Lightstick",
+        "precio":"900",
+        "imagen":"https://images-na.ssl-images-amazon.com/images/I/41qzNmYgW7L._AC_SL1000_.jpg",
+        "descripcion":"Artista: TOMORROW X TOGETHER"
+    },
+    {
+        "id":7,
+        "nombre":"Dynamite - Single",
+        "precio":"450",
+        "imagen":"https://upload.wikimedia.org/wikipedia/en/5/5f/BTS_-_Dynamite_%28official_cover%29.png",
+        "descripcion":"Artista: BTS"
+    },
+    {
+        "id":8,
+        "nombre":"Raise Us",
+        "precio":"650",
+        "imagen":"https://i.pinimg.com/originals/62/1d/07/621d07d2b974f88d7314cb22ab5cbb60.jpg",
+        "descripcion":"Artista: ONEUS"
+    },
+    {
+        "id":9,
+        "nombre":"Yellow Flower",
+        "precio":"700",
+        "imagen":"https://i.pinimg.com/originals/44/da/20/44da20ebb4d956569df65f000dcc0f60.jpg",
+        "descripcion":"Artista: MAMAMOO"
+    },
+    {
+        "id":10,
+        "nombre":"It'z Me",
+        "precio":"750",
+        "imagen":"https://i.pinimg.com/originals/5e/14/7d/5e147dc02c0f5766f1423fea6a060c01.jpg",
+        "descripcion":"Artista: ITZY"
+    },
+    {
+        "id":11,
+        "nombre":"The Book Us: Gravity",
+        "precio":"750",
+        "imagen":"https://images-na.ssl-images-amazon.com/images/I/712YgmcOOML.jpg",
+        "descripcion":"Artista: DAY6"
+    },
+    {
+        "id":12,
+        "nombre":"MOTS: 7",
+        "precio":"800",
+        "imagen":"https://cdn.shopify.com/s/files/1/0068/9959/7371/products/img01_300x300.jpg?v=1582594634",
+        "descripcion":"Artista: BTS"
+    }
+]
